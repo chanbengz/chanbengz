@@ -5,7 +5,6 @@
     - [VRC 15966A-O.T.G.](https://github.com/chanbengz/VEX-Engeneering)
 - Notes
     - [WriteUp for CS109](https://github.com/chanbengz/SUSTech_CS109_2022_Fall)
-🔭 I’m currently working on 
 
 📫 How to reach me: My Student Email`12212231@mail.sustech.edu.cn` or My Personal account `chanbengz@foxmail.com`
 

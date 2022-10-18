@@ -5,6 +5,12 @@
     - [VRC 15966A-O.T.G.](https://github.com/chanbengz/VEX-Engeneering)
 - Notes
     - [WriteUp for CS109](https://github.com/chanbengz/SUSTech_CS109_2022_Fall)
+
+**Thins I code with**
+
+![](https://img.shields.io/badge/C%2B%2B-21-red?logo=cpp&style=flat)
+![](https://img.shields.io/badge/Java-19-blue?style=flat&logo=java)
+![](https://img.shields.io/badge/python-3.9-orange?style=flat&logo=python&logoColor=orange)
     
 🤔 I'm currently studying Computer Security and CTF competition.
 

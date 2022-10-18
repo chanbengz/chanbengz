@@ -10,6 +10,4 @@
 
 📫 How to reach me: My Student Email`12212231@mail.sustech.edu.cn` or My Personal account `chanbengz@foxmail.com`
 
-⚡ Fun fact: I was once named Leo, but since the pinyin of my first name resembles an English name, I abandoned it.
-
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=solarized-dark)

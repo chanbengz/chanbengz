@@ -16,4 +16,6 @@
 
 📫 How to reach me: My Student Email`12212231@mail.sustech.edu.cn` or My Personal account `chanbengz@foxmail.com`
 
+🔑 My GPG key: `AED9243109264E7C`
+
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=solarized-dark)

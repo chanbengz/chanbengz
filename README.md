@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/C%2B%2B-21-red?style=flat)
 ![](https://img.shields.io/badge/Java-19-blue?style=flat)
-![](https://img.shields.io/badge/python-3.9-orange?style=flat)
+![](https://img.shields.io/badge/Python-3.9-orange?style=flat)
     
 🤔 I'm currently studying Computer Security and CTF competition.
 

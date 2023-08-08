@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ben Chen
 
-🌱 Freshman UG [@SUSTech](https://www.sustech.edu.cn/) 
+🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) 
 - Semester Project
     - [Dark Chess in Java](https://github.com/chanbengz/SUSTech_CS_109_Project)
 - Robot Project

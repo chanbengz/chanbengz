@@ -2,9 +2,9 @@
 
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) 
 - Semester Project
-    - [Dark Chess in Java](https://github.com/chanbengz/SUSTech_CS_109_Project)
+    - [Dark Chess in Java](https://github.com/chanbengz/SUSTech_CS109_Project)
 - Robot Project
-    - [VRC 15966A-O.T.G.](https://github.com/chanbengz/VEX-Engeneering)
+    - [VRC 15966A-O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
 - Notes
     - [WriteUp for CS109](https://github.com/chanbengz/SUSTech_CS109_2022_Fall)
 

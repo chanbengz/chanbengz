@@ -16,7 +16,7 @@
     
 🤔 I'm currently studying Computer Security and CTF competition.
 
-📫 How to reach me: My Student Email`12212231@mail.sustech.edu.cn` or My Personal account `chanbengz@foxmail.com`
+📫 How to reach me: My Student Email`12212231@mail.sustech.edu.cn` or My Personal account `chanben04gz@gmail.com`
 
 🔑 My GPG key: `AED9243109264E7C`
 

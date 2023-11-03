@@ -4,12 +4,12 @@
 - Semester Project
     - [Dark Chess in Java](https://github.com/chanbengz/SUSTech_CS109_Project)
 - Robot Project
-    - [VRC 15966A-O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
+    - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
 - Notes
-    - [WriteUp for CS109](https://github.com/chanbengz/SUSTech_CS109_2022_Fall)
-    - [WriteUp for CS203](https://github.com/chanbengz/SUSTech_CS203_DSAA_2023_Fall) (Unavaliable for now)
-    - [WriteUp for CS305](https://github.com/chanbengz/SUSTech_CS305_Computer_Networks_2023_Fall)
-    - [WriteUp for CS207](https://github.com/chanbengz/SUSTech_CS207_Digital_Design_2023_Fall)
+    - [CS109 Intro to Programming in Jave](https://github.com/chanbengz/SUSTech_CS109_2022_Fall)
+    - [CS203 Data Structures and Algorithm](https://github.com/chanbengz/SUSTech_CS203_DSAA_2023_Fall) (Unavaliable for now)
+    - [CS305 Computer Networks](https://github.com/chanbengz/SUSTech_CS305_Computer_Networks_2023_Fall)
+    - [CS207 Digital Design](https://github.com/chanbengz/SUSTech_CS207_Digital_Design_2023_Fall)
 - Personal Blog
     - [Ben's Blog](https://bigbens.me)
 

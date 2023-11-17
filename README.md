@@ -25,4 +25,4 @@
 
 🔑 My GPG key: `AED9243109264E7C`
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=solarized-dark)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=catppuccin_latte)

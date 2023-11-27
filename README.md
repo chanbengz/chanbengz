@@ -3,7 +3,7 @@
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) 
 - Semester Project
     - [Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
-    - [Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Digital_Design_Project)
+    - [Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
 - Robot Project
     - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)

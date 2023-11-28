@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='400px'> 
+<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='500px'> 
 
 ### Hi there 👋, I'm Ben Chen
 
@@ -30,5 +30,7 @@
 📫 How to reach me: My Student Email`chenb2022@mail.sustech.edu.cn` or My Personal account `chanben04gz@gmail.com`
 
 🔑 My GPG key: `AED9243109264E7C`
+
+🚴 & 🤺 My major hobbies are: `Cycling` and `Kendo`
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=catppuccin_latte)

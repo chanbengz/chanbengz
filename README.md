@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='500px'> 
+<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='400px'> 
 
 ### Hi there 👋, I'm Ben Chen
 

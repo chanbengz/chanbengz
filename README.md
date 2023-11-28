@@ -24,10 +24,14 @@
 ![](https://img.shields.io/badge/C%2B%2B-21-red?style=flat)
 ![](https://img.shields.io/badge/Java-19-blue?style=flat)
 ![](https://img.shields.io/badge/Python-3.9-orange?style=flat)
+![](https://img.shields.io/badge/Mac-grey?logo=apple)
+![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
     
 🤔 I'm currently studying Computer Security and CTF competition.
 
-📫 How to reach me: My Student Email`chenb2022@mail.sustech.edu.cn` or My Personal account `chanben04gz@gmail.com`
+📫 How to reach me:
+ + My Student Email`chenb2022@mail.sustech.edu.cn`
+ + My Personal account `chanben04gz@gmail.com`
 
 🔑 My GPG key: `AED9243109264E7C`
 

@@ -1,13 +1,23 @@
 <img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='400px'> 
 
-### Hi there 👋, I'm Ben Chen
+### Hi there, It's Ben Chen
 
-🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) 
+🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
+🤔 I'm currently majoring in **Computer Science** <br>
+📫 How to reach me:
+ + My Campus Email`chenb2022@mail.sustech.edu.cn`
+ + My Personal account `chanben04gz@gmail.com`
+
+🔑 My GPG key: `AED9243109264E7C`
+
+🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
 - Semester Project
     - [Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
-- Robot Project
+- Personal Blog
+    - [Ben's Blog](https://bigbens.me)
+- Misc Project
     - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
 - Notes
     - [CS109 Intro to Programming in Java](https://github.com/chanbengz/SUSTech_CS_Notes/tree/main/CS109%20Intro2Programming%20in%20Java)
@@ -16,8 +26,7 @@
     - [CS207 Digital Design](https://github.com/chanbengz/SUSTech_CS_Notes/tree/main/CS207%20Digital%20Design)
     - [CS305 Computer Networks](https://github.com/chanbengz/SUSTech_CS_Notes/tree/main/CS305%20Computer%20Networks)
     - [CS307 Database System](https://github.com/chanbengz/SUSTech_CS_Notes/tree/main/CS307%20Database%20System)
-- Personal Blog
-    - [Ben's Blog](https://bigbens.me)
+
 
 **Things I code with**
 
@@ -26,15 +35,6 @@
 ![](https://img.shields.io/badge/Python-3.9-orange?style=flat)
 ![](https://img.shields.io/badge/Mac-grey?logo=apple)
 ![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
-    
-🤔 I'm currently studying Computer Security and CTF competition.
-
-📫 How to reach me:
- + My Student Email`chenb2022@mail.sustech.edu.cn`
- + My Personal account `chanben04gz@gmail.com`
-
-🔑 My GPG key: `AED9243109264E7C`
-
-🚴 & 🤺 My major hobbies are: `Cycling` and `Kendo`
+![](https://img.shields.io/badge/Neovim-purple?logo=neovim)
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&theme=catppuccin_latte)

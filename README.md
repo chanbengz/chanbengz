@@ -13,6 +13,7 @@
 🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
 - Semester Project
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
+    - [[CS 202] MineCPU (Unavailable)](https://github.com/wLUOw/MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 305] HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
 - Personal Blog

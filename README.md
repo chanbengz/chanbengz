@@ -4,6 +4,7 @@
 
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 🤔 I'm currently majoring in **Computer Science** <br>
+⛏️ I'm currently working on a pipelined RISC-V CPU <br>
 📫 How to reach me:
  + My Campus Email`chenb2022@mail.sustech.edu.cn`
  + My Personal account `chanben04gz@gmail.com`

@@ -4,12 +4,13 @@
 
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 🤔 I'm currently majoring in **Computer Science** <br>
-⛏️ I'm currently working on a pipelined RISC-V CPU <br>
+💡 My interested research fields: **System Security** and **Architecture** <br>
+⛏️  I'm currently working on a pipelined RISC-V CPU <br>
 📫 How to reach me:
  + My Campus Email`chenb2022@mail.sustech.edu.cn`
  + My Personal account `chanben04gz@gmail.com`
 
-🔑 My GPG key: `AED9243109264E7C`
+🔑 My GPG key: `E2D44DC8B5C7AA01`
 
 🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
 - Semester Project

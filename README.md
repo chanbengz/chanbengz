@@ -24,6 +24,7 @@
     - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
 - Notes
     - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
+    - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
 
 
 **Things I code with**

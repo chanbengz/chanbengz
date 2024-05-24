@@ -6,10 +6,12 @@
 🤔 I'm currently majoring in **Computer Science** <br>
 💡 My interested research: **System Security** and **Architecture** <br>
 📫 How to reach me:
- + My Campus Email`chenb2022@mail.sustech.edu.cn`
- + My Personal account `chanben04gz@gmail.com`
+ + My Campus Email: `chenb2022@mail.sustech.edu.cn`
+ + My Personal account: `chanben04gz@gmail.com`
 
-🔑 My GPG key: `E2D44DC8B5C7AA01` (Laptop) & `11A692B40196D4C4` (Desktop)
+🔑 My GPG key: 
+ - `E2D44DC8B5C7AA01` (Laptop)
+ - `11A692B40196D4C4` (Desktop)
 
 🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
 - Semester Project

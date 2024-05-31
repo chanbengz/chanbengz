@@ -6,8 +6,8 @@
 🤔 I'm currently majoring in **Computer Science** <br>
 💡 My interested research: **System Security** and **Architecture** <br>
 📫 How to reach me:
- + My Campus Email: `chenb2022@mail.sustech.edu.cn`
- + My Personal account: `chanben04gz@gmail.com`
+ + `chenb2022@mail.sustech.edu.cn` (Campus)
+ + `chanben04gz@gmail.com` (Personal)
 
 🔑 My GPG key: 
  - `E2D44DC8B5C7AA01` (Laptop)
@@ -19,13 +19,13 @@
     - [[CS 202] MineCPU (Unavailable)](https://github.com/wLUOw/MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 305] HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
+- Notes
+    - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
+    - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
 - Personal Blog
     - [Ben's Blog](https://bigbens.me)
 - Misc Project
     - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
-- Notes
-    - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
-    - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
 
 
 **Things I code with**

@@ -10,13 +10,14 @@
  + `chanben04gz@gmail.com` (Personal)
 
 🔑 My GPG key: 
- - `E2D44DC8B5C7AA01` (Laptop)
- - `11A692B40196D4C4` (Desktop)
+ + `E2D44DC8B5C7AA01` (Laptop)
+ + `11A692B40196D4C4` (Desktop)
 
 🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
+⛏️ My works:
 - Semester Project
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
-    - [[CS 202] MineCPU (Unavailable)](https://github.com/wLUOw/MineCPU)
+    - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 305] HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
 - Notes

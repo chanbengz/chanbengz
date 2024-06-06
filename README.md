@@ -14,8 +14,9 @@
  + `11A692B40196D4C4` (Desktop)
 
 🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
+
 ⛏️ My works:
-- Semester Project
+- Semester Projects
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
@@ -23,8 +24,7 @@
 - Notes
     - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
     - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
-- Personal Blog
-    - [Ben's Blog](https://bigbens.me)
+- Personal Blog: [Ben's Blog](https://bigbens.me)
 - Misc Project
     - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
 

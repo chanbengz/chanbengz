@@ -1,6 +1,6 @@
 <img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width=400px> 
 
-### Hi there, It's Ben Chen
+### Hi there, it's Ben Chen
 
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 🤔 I'm currently majoring in **Computer Science** <br>
@@ -31,10 +31,10 @@ Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS
 **Things I code with**
 
 ![](https://img.shields.io/badge/C%2B%2B-21-red?style=flat)
-![](https://img.shields.io/badge/Java-19-blue?style=flat)
+![](https://img.shields.io/badge/Chisel-6.4-blue?style=flat)
 ![](https://img.shields.io/badge/Python-3.9-orange?style=flat)
 ![](https://img.shields.io/badge/Mac-grey?logo=apple)
 ![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
 ![](https://img.shields.io/badge/Neovim-purple?logo=neovim)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=420px>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=425px>

@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width='400px'> 
+<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width=400px> 
 
 ### Hi there, It's Ben Chen
 
@@ -37,4 +37,4 @@ Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS
 ![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
 ![](https://img.shields.io/badge/Neovim-purple?logo=neovim)
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&line_height=33&count_private=true&theme=catppuccin_latte)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=460px>

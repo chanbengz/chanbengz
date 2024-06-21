@@ -4,18 +4,17 @@
 
 🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 🤔 I'm currently majoring in **Computer Science** <br>
-💡 My interested research: **System Security** and **Architecture** <br>
-📫 How to reach me:
- + `chenb2022@mail.sustech.edu.cn` (Campus)
- + `chanben04gz@gmail.com` (Personal)
-
-🔑 My GPG key: 
+💡 Interested research about **System Security** and **Architecture** <br>
+📫 Mail to me via `chanben04gz@gmail.com` <br>
+🔑 GPG keys: 
  + `E2D44DC8B5C7AA01` (Laptop)
  + `11A692B40196D4C4` (Desktop)
 
-🚴 & 🤺 Major hobbies: doing `Cycling` and `Kendo` regularly
+Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS Lab](http://compass.sustech.edu.cn/)
 
-⛏️ My works:
+<details>
+<summary>⛏️ My works:</summary>
+
 - Semester Projects
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/MineCPU)
@@ -26,8 +25,8 @@
     - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
 - Personal Blog: [Ben's Blog](https://bigbens.me)
 - Misc Project
-    - [VRC 15966A O.T.G.](https://github.com/chanbengz/VEX_15966A_OTG)
-
+    - [VEX Robotics](https://github.com/chanbengz/VEX_15966A_OTG)
+</details>
 
 **Things I code with**
 

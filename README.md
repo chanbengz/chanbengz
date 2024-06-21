@@ -37,4 +37,4 @@ Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS
 ![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
 ![](https://img.shields.io/badge/Neovim-purple?logo=neovim)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=460px>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=420px>

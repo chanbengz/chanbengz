@@ -8,6 +8,8 @@
 📫 Mail to me via `chanben04gz@gmail.com` <br>
 🔑 GPG key: `FC5FB811D0840F99`
 
+Blog: [Ben's Blog](https://chanbengz.github.io)
+
 Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS Lab](http://compass.sustech.edu.cn/)
 
 <details>
@@ -21,7 +23,7 @@ Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS
 - Notes
     - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
     - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
-- Personal Blog: [Ben's Blog](https://bigbens.me)
+- Personal Blog: [Ben's Blog](https://github.com/chanbengz/chanbengz.github.io)
 - Misc Project
     - [VEX Robotics](https://github.com/chanbengz/VEX_15966A_OTG)
 </details>

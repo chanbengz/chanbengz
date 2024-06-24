@@ -6,9 +6,7 @@
 🤔 I'm currently majoring in **Computer Science** <br>
 💡 Interested research about **System Security** and **Architecture** <br>
 📫 Mail to me via `chanben04gz@gmail.com` <br>
-🔑 GPG keys: 
- + `E2D44DC8B5C7AA01` (Laptop)
- + `11A692B40196D4C4` (Desktop)
+🔑 GPG key: `FC5FB811D0840F99`
 
 Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS Lab](http://compass.sustech.edu.cn/)
 

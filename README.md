@@ -2,7 +2,7 @@
 
 ### Hi there, it's Ben Chen
 
-🌱 Sophomore UG [@SUSTech](https://www.sustech.edu.cn/) <br>
+🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 🤔 I'm currently majoring in **Computer Science** <br>
 💡 Interested research about **System Security** and **Architecture** <br>
 📫 Mail to me via `chanben04gz@gmail.com` <br>
@@ -10,7 +10,7 @@
 
 Blog: [Ben's Blog](https://chanbengz.github.io)
 
-Current member of [COMPASS CTF Team](https://wiki.compass.college/) and [COMPASS Lab](http://compass.sustech.edu.cn/)
+Current member of [COMPASS CTF Team](https://wiki.compass.college/)
 
 <details>
 <summary>⛏️ My works:</summary>

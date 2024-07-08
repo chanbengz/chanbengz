@@ -6,7 +6,8 @@
 🤔 I'm currently majoring in **Computer Science** <br>
 💡 Interested research about **System Security** and **Architecture** <br>
 📫 Mail to me via `chanben04gz@gmail.com` <br>
-🔑 GPG key: `FC5FB811D0840F99`
+🔑 GPG key: `FC5FB811D0840F99` [Public Key](./doc/cb.gpg)<br>
+📄 [Resume](./doc/resume.pdf) (Updated on Jul. 2024)
 
 Blog: [Ben's Blog](https://chanbengz.github.io)
 

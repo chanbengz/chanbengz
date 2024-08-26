@@ -3,8 +3,7 @@
 ### Hi there, it's Ben Chen
 
 🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/) <br>
-💡 Favour **System Security** and **Architecture** <br>
-🔑 [GPG](https://github.com/chanbengz.gpg) `FC5FB811D0840F99` & [SSH](https://github.com/chanbengz.keys) <br>
+💡 Favour **System Security** and **Architecture** <br>🧿 Interested in RISC-V chip design and Cryptography <br>🔑 [GPG ID](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
 
 Blog: [blog.benx.dev](https://blog.benx.dev)
 

@@ -7,7 +7,7 @@
 
 Blog: [blog.benx.dev](https://blog.benx.dev)
 
-Current member of [COMPASS CTF Team](https://wiki.compass.college/)
+Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
 
 <details>
 <summary>⛏️ My works:</summary>

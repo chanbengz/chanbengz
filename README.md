@@ -5,7 +5,7 @@
 🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/) <br>
 💡 Favour **System Security** and **Architecture** <br>
 🪬 Interested in RISC-V chip design and Cryptography <br>
-💻 Cybersecurity Enthusiast and CTF Player <br>
+💻 Cybersecurity enthusiast and CTF player <br>
 🔑 [GPG ID](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
 
 Blog: [blog.benx.dev](https://blog.benx.dev)
@@ -17,17 +17,20 @@ Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
 
 - Semester Projects
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
-    - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/MineCPU)
+    - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/SUSTech_CS202_MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
-    - [[CS 305] HTTP File Manager](https://github.com/chanbengz/CS305_Project_2023F)
     - [[CS 303] AI Projects](https://github.com/chanbengz/SUSTech_CS303_Project_2024F)
+    - [[CS 305] HTTP File Manager](https://github.com/chanbengz/SUSTech_CS305_Project_2023F)
     - [[CS 309] NINJA Chat](https://github.com/SUSTech-NINJA)
     - [[CS 323] Incredibuild Compiler](https://github.com/chanbengz/SUSTech_CS323_Project_Incredibuild)
 - Notes
     - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
     - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
-- Personal Blog: [Ben's Blog](https://github.com/chanbengz/chanbengz.github.io)
-- Misc Project
+- Personal
+    - [Ben's Blog](https://github.com/chanbengz/blog)
+    - [Slides @slidev](https://github.com/chanbengz/slides)
+    - [Devenv Config](https://github.com/chanbengz/dotfiles)
+- Misc
     - [[SWS 3011] GoFetch Demo & Mitigation](https://github.com/chanbengz/NUS_SoC_SWS_2024_DOTA_GP5)
     - [VEX Robotics](https://github.com/chanbengz/VEX_15966A_OTG)
 </details>

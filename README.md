@@ -2,7 +2,7 @@
 
 ### Hi there, it's Ben Chen
 
-🌱 Junior undergraduate [@SUSTech](https://www.sustech.edu.cn/) in China <br>
+🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/), supervised by [Prof. Fengwei Zhang](https://fengweiz.github.io) <br>
 💡 Favour **System Security** and **Architecture** <br>
 🪬 Interested in RISC-V chip design and Cryptography <br>
 💻 Cybersecurity enthusiast and CTF player <br>
@@ -15,11 +15,11 @@ Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
 <details>
 <summary>⛏️ My works</summary>
 
-- Semester Projects
+- Semester
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/SUSTech_CS202_MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
-    - [[CS 301] ](about:blank)
+    - [[CS 301] GISC Embedded](https://github.com/chanbengz)
     - [[CS 303] AI Projects](https://github.com/chanbengz/SUSTech_CS303_Project_2024F)
     - [[CS 305] HTTP File Manager](https://github.com/chanbengz/SUSTech_CS305_Project_2023F)
     - [[CS 309] NINJA Chat](https://github.com/SUSTech-NINJA)
@@ -32,8 +32,8 @@ Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
     - [Ben's Blog](https://github.com/chanbengz/blog)
     - [Slides @slidev](https://github.com/chanbengz/slides)
     - [Configs @macOS](https://github.com/chanbengz/dotfiles)
-- Misc
-    - [VEX Robotics](https://github.com/chanbengz/VEX_15966A_OTG)
+- Robotics
+    - [VEX V5 Robotics Competition](https://github.com/chanbengz/VEX_15966A_OTG)
 </details>
 
 **Things I code with**

@@ -10,14 +10,14 @@
 
 Blog: [blog.benx.dev](https://blog.benx.dev)
 
-Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
+Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 <details>
 <summary>⛏️ My works</summary>
 
 - Semester
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
-    - [[CS 202] MineCPU RISC-V](https://github.com/wLUOw/SUSTech_CS202_MineCPU)
+    - [[CS 202] MineCPU RV](https://github.com/LunaQu4kez/SUSTech_CS202_MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 301] GISC Embedded](https://github.com/chanbengz)
     - [[CS 303] AI Projects](https://github.com/chanbengz/SUSTech_CS303_Project_2024F)
@@ -26,13 +26,13 @@ Current member of [COMPASS CTF Team](https://github.com/compass-ctf-team)
     - [[CS 323] Incredibuild Compiler](https://github.com/chanbengz/SUSTech_CS323_Project_Incredibuild)
     - [[SWS 3011] GoFetch Demo & Mitigation](https://github.com/chanbengz/NUS_SoC_SWS_2024_DOTA_GP5)
 - Notes
-    - [CS Notes @SUSTech](https://github.com/chanbengz/SUSTech_CS_Notes)
-    - [WriteUps for CTF](https://github.com/chanbengz/CTF_Writeups)
+    - [CS Notes @SUSTech](https://github.com/chanbengz/sustech-notes)
+    - [WriteUps for CTF](https://github.com/chanbengz/ctf-writeups)
 - Personal
     - [Ben's Blog](https://github.com/chanbengz/blog)
     - [Slides @slidev](https://github.com/chanbengz/slides)
     - [Configs @macOS](https://github.com/chanbengz/dotfiles)
-- Robotics
+- Robotics (Archived)
     - [VEX V5 Robotics Competition](https://github.com/chanbengz/VEX_15966A_OTG)
 </details>
 

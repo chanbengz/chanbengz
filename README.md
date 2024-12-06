@@ -17,7 +17,7 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 - Semester
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
-    - [[CS 202] MineCPU RV](https://github.com/LunaQu4kez/SUSTech_CS202_MineCPU)
+    - [[CS 202] MineCPU RV](https://github.com/chanbengz/SUSTech_CS202_Project_MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 301] ShinxSU7](https://github.com/SUSTech-ISACG-Association/ShinxSU7)
     - [[CS 303] AI Compilation](https://github.com/chanbengz/SUSTech_CS303_Project_2024F)
@@ -38,7 +38,7 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 **Things I code with**
 
-![](https://img.shields.io/badge/Rust-1.72-red?style=flat)
+![](https://img.shields.io/badge/Rust-1.82-red?style=flat)
 ![](https://img.shields.io/badge/Chisel-6.4-blue?style=flat)
 ![](https://img.shields.io/badge/Python-3.13-orange?style=flat)
 ![](https://img.shields.io/badge/Mac-grey?logo=apple)

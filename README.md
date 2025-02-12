@@ -38,8 +38,8 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 **Things I code with**
 
-![](https://img.shields.io/badge/Rust-1.82-red?style=flat)
-![](https://img.shields.io/badge/Chisel-6.4-blue?style=flat)
+![](https://img.shields.io/badge/Rust-1.84-red?style=flat)
+![](https://img.shields.io/badge/Chisel-6.6-blue?style=flat)
 ![](https://img.shields.io/badge/Python-3.13-orange?style=flat)
 ![](https://img.shields.io/badge/Mac-grey?logo=apple)
 ![](https://img.shields.io/badge/Arch-black?logo=arch-linux)

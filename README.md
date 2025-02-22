@@ -39,11 +39,11 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 **Things I code with**
 
-![](https://img.shields.io/badge/Rust-1.84-red?style=flat)
-![](https://img.shields.io/badge/Chisel-6.6-blue?style=flat)
-![](https://img.shields.io/badge/Python-3.13-orange?style=flat)
-![](https://img.shields.io/badge/Mac-grey?logo=apple)
-![](https://img.shields.io/badge/Arch-black?logo=arch-linux)
-![](https://img.shields.io/badge/Neovim-purple?logo=neovim)
+[![](https://img.shields.io/badge/Rust-1.85-red?style=flat)](https://www.rust-lang.org)
+[![](https://img.shields.io/badge/Chisel-6.6-blue?style=flat)](https://www.chisel-lang.org)
+[![](https://img.shields.io/badge/Python-3.13-orange?style=flat)](https://www.python.org)
+[![](https://img.shields.io/badge/Mac-grey?logo=apple)](https://apple.com/mac)
+[![](https://img.shields.io/badge/Arch-black?logo=arch-linux)](https://archlinux.org/)
+[![](https://img.shields.io/badge/Neovim-purple?logo=neovim)](https://neovim.io)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanbengz&show_icons=true&count_private=true&theme=catppuccin_latte" width=425px>

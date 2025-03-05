@@ -4,7 +4,7 @@
 
 🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/), supervised by [Prof. Fengwei Zhang](https://fengweiz.github.io) <br>
 💡 Favour **System Security** and **Architecture** <br>
-🪬 Interested in RISC-V chip design and Cryptography <br>
+🪬 Interested in microarchitectural flaws <br>
 💻 Cybersecurity enthusiast and CTF player <br>
 🔑 [GPG ID](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
 

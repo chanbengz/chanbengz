@@ -15,6 +15,8 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 <details>
 <summary>⛏️ My works</summary>
 
+- Research
+    - Ongoing...
 - Semester
     - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [[CS 202] MineCPU RV](https://github.com/chanbengz/SUSTech_CS202_Project_MineCPU)

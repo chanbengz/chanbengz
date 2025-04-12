@@ -1,12 +1,15 @@
 <img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width=400px> 
 
-### Hi there, it's Ben Chen
+<h3> Hi there, it's 
+    <ruby>
+    <rb>陈贲</rb>
+    <rt>CHEN Ben</rt>
+    </ruby> 
+</h3>
 
-🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/), supervised by [Prof. Fengwei Zhang](https://fengweiz.github.io) <br>
-💡 Favour **System Security** and **Architecture** <br>
-🪬 Interested in microarchitectural flaws <br>
-💻 Cybersecurity enthusiast and CTF player <br>
-🔑 [GPG ID](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
+**Computer Architecture** microarchitectural flaws <br>
+**System Security** secure heterogeneous computer system <br>
+[GPG](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
 
 Blog: [blog.benx.dev](https://blog.benx.dev)
 
@@ -41,7 +44,7 @@ Current member of [COMPASS CTF Team](https://home.compassc.tf)
 
 **Things I code with**
 
-[![](https://img.shields.io/badge/Rust-1.85-red?style=flat)](https://www.rust-lang.org)
+[![](https://img.shields.io/badge/Rust-1.87-red?style=flat)](https://www.rust-lang.org)
 [![](https://img.shields.io/badge/Chisel-6.6-blue?style=flat)](https://www.chisel-lang.org)
 [![](https://img.shields.io/badge/Python-3.13-orange?style=flat)](https://www.python.org)
 [![](https://img.shields.io/badge/Mac-grey?logo=apple)](https://apple.com/mac)

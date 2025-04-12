@@ -8,12 +8,13 @@
 </h3>
 
 **Computer Architecture** microarchitectural flaws <br>
-**System Security** secure heterogeneous computer system <br>
-[GPG](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99` <br>
+**System Security** secure heterogeneous computer system 
 
-Blog: [blog.benx.dev](https://blog.benx.dev)
+Blog [blog.benx.dev](https://blog.benx.dev)
 
-Current member of [COMPASS CTF Team](https://home.compassc.tf)
+Member of [COMPASS CTF](https://home.compassc.tf) and [S1uM4i](https://www.s1um4i.com/) team
+
+[GPG](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99`
 
 <details>
 <summary>⛏️ My works</summary>

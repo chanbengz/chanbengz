@@ -17,12 +17,18 @@ Member of [COMPASS CTF](https://home.compassc.tf) and [S1uM4i](https://www.s1um4
 [GPG](https://github.com/chanbengz.gpg) `B49B44889FADA57383EC9873FC5FB811D0840F99`
 
 <details>
-<summary>⛏️ My works</summary>
+<summary>My Repos</summary>
 
 - Research
-    - Ongoing...
+    - Coming soon
+- Notes
+    - [CS Notes @SUSTech](https://github.com/chanbengz/sustech-notes)
+    - [WriteUps for CTF](https://github.com/chanbengz/ctf-writeups)
+- Personal
+    - [Ben's Blog](https://github.com/chanbengz/blog)
+    - [Slides @slidev](https://github.com/chanbengz/slides)
+    - [Configs @macOS](https://github.com/chanbengz/dotfiles)
 - Semester
-    - [[CS 109] Dark Chess](https://github.com/chanbengz/SUSTech_CS109_Project)
     - [[CS 202] MineCPU RV](https://github.com/chanbengz/SUSTech_CS202_Project_MineCPU)
     - [[CS 207] Piano by FPGA](https://github.com/chanbengz/SUSTech_CS207_Project_Piano)
     - [[CS 301] ShinxSU7](https://github.com/SUSTech-ISACG-Association/ShinxSU7)
@@ -32,15 +38,6 @@ Member of [COMPASS CTF](https://home.compassc.tf) and [S1uM4i](https://www.s1um4
     - [[CS 309] NINJA Chat](https://github.com/SUSTech-NINJA)
     - [[CS 323] Incredibuild Compiler](https://github.com/chanbengz/SUSTech_CS323_Project_Incredibuild)
     - [[SWS 3011] GoFetch Demo & Mitigation](https://github.com/chanbengz/NUS_SoC_SWS_2024_DOTA_GP5)
-- Notes
-    - [CS Notes @SUSTech](https://github.com/chanbengz/sustech-notes)
-    - [WriteUps for CTF](https://github.com/chanbengz/ctf-writeups)
-- Personal
-    - [Ben's Blog](https://github.com/chanbengz/blog)
-    - [Slides @slidev](https://github.com/chanbengz/slides)
-    - [Configs @macOS](https://github.com/chanbengz/dotfiles)
-- Robotics (Archived)
-    - [VEX V5 Robotics Competition](https://github.com/chanbengz/VEX_15966A_OTG)
 </details>
 
 **Things I code with**

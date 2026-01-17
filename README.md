@@ -13,11 +13,12 @@ Blog [blog.benx.dev](https://blog.benx.dev)
 
 **Things I code with**
 
-[![](https://img.shields.io/badge/Rust-1.87-red?style=flat&logo=rust)](https://www.rust-lang.org)
-[![](https://img.shields.io/badge/Clang-17.0-darkslategrey?style=flat&logo=llvm)](https://clang.llvm.org)
-[![](https://img.shields.io/badge/Chisel-7.0-blue?style=flat&logo=scala)](https://www.chisel-lang.org)
-[![](https://img.shields.io/badge/Python-3.13-orange?style=flat&logo=python&logoColor=f5f5f5)](https://www.python.org)<br>
+[![](https://img.shields.io/badge/Rust-1.92-red?style=flat&logo=rust)](https://www.rust-lang.org)
+[![](https://img.shields.io/badge/C++-23-darkslategrey?style=flat&logo=llvm)](https://clang.llvm.org)
+[![](https://img.shields.io/badge/Chisel-7.7-blue?style=flat&logo=scala)](https://www.chisel-lang.org)
+[![](https://img.shields.io/badge/Python-3.14-orange?style=flat&logo=python&logoColor=f5f5f5)](https://www.python.org)<br>
 [![](https://img.shields.io/badge/Mac-Tahoe-blue?logo=apple)](https://apple.com/mac)
 [![](https://img.shields.io/badge/Arch-black?logo=arch-linux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Neovim-purple?logo=neovim)](https://neovim.io)
 [![](https://img.shields.io/badge/termius-navy?logo=termius)](https://termius.com)
+![](https://hit.yhype.me/github/profile?account_id=34162471)
